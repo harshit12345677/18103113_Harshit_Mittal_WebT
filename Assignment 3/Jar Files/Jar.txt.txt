@@ -1,0 +1,2 @@
+Super Jar File is obtained by merging of  pdfjsoup.jar(merged pdf.jar and jsoup.jar),poi-3.12.jar.
+To run the program, need to pass this file name along with classpath and file name.
