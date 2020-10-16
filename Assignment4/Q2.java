@@ -1,5 +1,7 @@
-public class A4_q2 {
-    public static void main(String[] args) {
+public class A4_q2 
+{
+    public static void main(String[] args) 
+    {
         int var = -1;
         byte var_byte = (byte) var;
         char var_char = (char) var_byte;
