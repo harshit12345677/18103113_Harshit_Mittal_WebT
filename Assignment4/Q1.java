@@ -66,7 +66,7 @@ class Solution {
     }
 
     public static int replant(String[] crops) {
-        // Write your code here
+        
         // Return the number of replanted crops
         helper(crops, 0, 0, 0); //call helper function
 
